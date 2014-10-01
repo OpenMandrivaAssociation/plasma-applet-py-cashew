@@ -2,7 +2,7 @@
 
 Name:		plasma-applet-py-cashew
 Version:	1.1
-Release:	5
+Release:	6
 Summary:	A KDE4 plasmoid that hides the desktop toolbox, also known as the Cashew
 Group:		Graphical desktop/KDE
 License:	GPLv3+
@@ -12,6 +12,7 @@ BuildRequires:	fdupes
 BuildRequires:	kdebase4-workspace-devel
 BuildRequires:	zip
 
+Requires:	plasma-scriptengine-python
 Requires:	kdebase4-workspace
 Requires:	python-kde4
 BuildArch:	noarch

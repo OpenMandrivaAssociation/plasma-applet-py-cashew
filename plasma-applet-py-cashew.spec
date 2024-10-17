@@ -6,7 +6,7 @@ Release:	7
 Summary:	A KDE4 plasmoid that hides the desktop toolbox, also known as the Cashew
 Group:		Graphical desktop/KDE
 License:	GPLv3+
-Url:		http://kde-look.org/content/show.php/Py-Cashew?content=147892
+Url:		https://kde-look.org/content/show.php/Py-Cashew?content=147892
 Source0:	%{name}.tar.bz2
 BuildRequires:	fdupes
 BuildRequires:	kdebase4-workspace-devel

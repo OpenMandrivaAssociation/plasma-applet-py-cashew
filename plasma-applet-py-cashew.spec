@@ -8,6 +8,7 @@ Group:		Graphical desktop/KDE
 License:	GPLv3+
 Url:		https://kde-look.org/content/show.php/Py-Cashew?content=147892
 Source0:	%{name}.tar.bz2
+BuildRequires:	make
 BuildRequires:	fdupes
 BuildRequires:	kdebase4-workspace-devel
 BuildRequires:	zip
